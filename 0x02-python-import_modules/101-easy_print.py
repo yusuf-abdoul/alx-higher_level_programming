@@ -1,2 +1,2 @@
 #!/usr/bin/python3
-__import__ subprocess; subprocess.call(["echo", "#pythoniscool"])
+__import__ ("subprocess").call(["echo", "#pythoniscool"])
