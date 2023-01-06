@@ -1,4 +1,5 @@
-f __name__ == "__main__":
+#!/usr/bin/python3
+if __name__ == "__main__":
     import sys
 
     no_args = len(sys.argv) - 1
