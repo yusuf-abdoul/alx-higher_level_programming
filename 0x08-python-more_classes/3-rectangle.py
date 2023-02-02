@@ -75,5 +75,3 @@ class Rectangle:
             rectangle += ("#" * self.width) + "\n"
 
         return rectangle[:-1]
-
-	"""
