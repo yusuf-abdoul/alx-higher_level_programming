@@ -59,8 +59,8 @@ class Rectangle:
             return 0
         return 2 * (self.__height + self.__width)
     def __str__(self):
-	"""Method that returns the Rectangle #
-        
+	"""Method that returns the Rectangle str
+
 	Returns:
             str of the rectangle
         """
