@@ -11,7 +11,7 @@ Usage
 ``matrix_mul(...)`` returns a new matrix representing the multiplication of
 ``m_a`` by ``m_b``.
 
-::
+:::
 
     >>> matrix_mul = __import__('100-matrix_mul').matrix_mul
     >>> m_a = [
