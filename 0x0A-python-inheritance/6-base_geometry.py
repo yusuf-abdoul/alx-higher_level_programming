@@ -3,8 +3,8 @@
 
 
 class BaseGeometry:
-    """Geometry utility class"""
+    """Geomerty utility class"""
 
     def area(self):
-		"""Returns the area"""
+        """Returns the area"""
         raise Exception("area() is not implemented")
