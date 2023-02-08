@@ -3,7 +3,7 @@
 
 
 class BaseGeometry:
-    """Geometry Utility Empty class"""
+    """Geometry utility class"""
 
     def area(self):
 		"""Returns the area"""

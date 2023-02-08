@@ -5,4 +5,3 @@
 class BaseGeometry:
     """Geomerty utility class"""
     pass
-
